@@ -5,9 +5,7 @@
 This analysis is a Capstone project from the [Google Data Analytics Professional Certificate](https://www.coursera.org/learn/google-data-analytics-capstone/supplement/ZsmDD/case-study-2-how-can-a-wellness-company-play-it-smart) on Coursera.
 
 ### Background:
-Bellabeat is a high-tech manufacturer of beautifully-designed health-focused smart products for women since 2013. Inspiring and empowering women with knowledge about their own health and habits, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for females.
-
-The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
+Bellabeat is  a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company.
 
 ### Business Task:
 Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing team.
@@ -19,7 +17,7 @@ Analyze FitBit Fitness Tracker App data to gain insights into how consumers are 
 - How could these trends help influence Bellabeat marketing strategy?
 
 ### Tools:
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+R for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
 ###  Data Set:
 The data set is available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit).
