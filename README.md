@@ -61,17 +61,28 @@ Data processing, analysis and visualization will all be done in R Programming wi
 3.1 Install packages and open libraries 
 
 ```r
+# Installing packages :
+
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("tidyr")
+install.packages("here")
+install.packages("skimr")
+install.packages("janitor")
+
+# Loading packages :
+
 library(tidyverse)
-library(ggpubr)
 library(lubridate)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(here)
 library(skimr)
 library(janitor)
-library(viridis)
-library(scales)
-library(waffle)
-library(ggrepel)
-library(plotly)
-library(RColorBrewer)
+
 ```
 ## Analyze 
 ## Share
