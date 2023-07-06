@@ -54,7 +54,7 @@ Is Data **ROCCC**? - **R**eliable, **O**riginal, **C**omprehensive, **C**urrent,
 - Cited - LOW - Data collected from third party, hence unknown
 
 
-## Process
+## Step 3: Process
 
 Data processing, analysis and visualization will all be done in R Programming with R Studio.
 
@@ -78,11 +78,15 @@ library(tidyverse)
 library(lubridate)
 library(dplyr)
 library(ggplot2)
-library(tidyr)
+library(tidyr)a
 library(here)
 library(skimr)
-library(janitor)
+library(janitor
+
 
 ```
+
+## Importing Dataset 
+
 ## Analyze 
 ## Share
